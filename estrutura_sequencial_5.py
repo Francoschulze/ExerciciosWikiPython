@@ -1,3 +1,7 @@
+"""
+Faça um Programa que converta metros para centímetros.
+"""
+
 # Variável com o valor definido
 metro = 10
 
