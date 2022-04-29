@@ -2,7 +2,7 @@
 Faça um Programa que converta metros para centímetros.
 """
 
-# Variável com o valor definido
+# Variável com o valor pré-definido
 metro = 10
 
 # Efetuado o cálculo na formatação da f-strings
