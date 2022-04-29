@@ -10,4 +10,6 @@ nota_4 = float(input('Digite sua quarta nota: '))
 # Não esquecer a ordem de precedência
 media = (nota_1 + nota_2 + nota_3 + nota_4) / 4
 
+# Formatando com f-strings
+# (:.2f significa que eu quero mostrar com apenas duas casas decimais)
 print(f'Sua média foi: {media:.2f}')
